@@ -1,6 +1,6 @@
 # ExercicioMVC
 
-![modeloMVC](https://github.com/user-attachments/assets/62eb51f7-77f5-475c-b600-62d96889adf4)
+
 
 # tela login
 ![telaloginusuario](https://github.com/user-attachments/assets/aeb9058a-f7fa-4236-aa70-e44666af1603)
